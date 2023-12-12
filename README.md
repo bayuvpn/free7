@@ -10,3 +10,25 @@
 
 # `Update Backup`
 <pre><code>wget https://raw.githubusercontent.com/bayuvpn/free7/main/backup/set-br.sh && chmod +x set-br.sh && ./set-br.sh
+
+### WORK DI OS
+- UBUNTU 20.04.05
+- DEBIAN 10 ( Disarankan )
+
+### SETTING CLOUDFLARE
+```
+- SSL/TLS : FULL
+- SSL/TLS Recommender : OFF
+- GRPC : ON
+- WEBSOCKET : ON
+- Always Use HTTPS : OFF
+- UNDER ATTACK MODE : OFF
+```
+
+### `WARNING !`
+```
+Jika Mendapatkan Status Service Off
+Silahkan Restart Service.
+Jika Statsus Service Masih Off
+Silahkan Reboot vps kalian
+```
