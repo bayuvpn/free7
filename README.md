@@ -9,9 +9,10 @@
 <pre><code>wget https://raw.githubusercontent.com/bayuvpn/free7/main/updatemenu.sh && chmod +x updatemenu.sh && ./updatemenu.sh</pre></code>
 
 # `Update Backup`
-<pre><code>wget https://raw.githubusercontent.com/bayuvpn/free7/main/backup/set-br.sh && chmod +x set-br.sh && ./set-br.sh
+<pre><code>wget https://raw.githubusercontent.com/bayuvpn/free7/main/backup/set-br.sh && chmod +x set-br.sh && ./set-br.sh</pre></code>
 
 ### WORK DI OS
+```
 - UBUNTU 20.04.05
 - DEBIAN 10 ( Disarankan )
 
