@@ -1,6 +1,6 @@
 #!/bin/bash
 #installer Websocker tunneling 
-REPO="https://raw.githubusercontent.com/anumu/hhe/main/"
+REPO="https://raw.githubusercontent.com/bayuvpn/free7/main/"
 cd
 
 #Install Script Websocket-SSH Python
