@@ -262,7 +262,7 @@ menu
 clear 
 figlet 'Bayu Tunneling' | lolcat
 echo -e "  ${z}┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓\033[0m${NC}"
-echo -e "  ${z}|\033[41m           ⇱ INFORMATIONS VPS ⇲             ${NC}${z}|${NC}"
+echo -e "  ${z}|\033[41m           ⇱ BAYU TUNNELING ⇲             ${NC}${z}|${NC}"
 echo -e "  ${z}┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛\033[0m${NC}"
 echo -e "  ${z}|${r}⇲ ${NC}${z}SYSTEM OS     ${NC}: $MODEL"
 echo -e "  ${z}|${r}⇲ ${NC}${z}ISP           ${NC}: $ISP"
@@ -293,6 +293,7 @@ echo -e "       ${z}┏━━━━━━━━━━━━━━━━━━━
 echo -e "       ${z}|  ${r}⇲ ${NC}${z}Version :${NC} 3.0 Lts"
 echo -e "       ${z}|  ${r}⇲ ${NC}${z}User    :${NC} $Name"
 echo -e "       ${z}|  ${r}⇲ ${NC}${z}Expired :${NC} $Exp"
+echo -e "       ${z}|  ${r}⇲ ${NC}${z}Creator :${NC} @BayuTunneling"
 echo -e "       ${z}┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛\033[0m${NC}"
 echo -e "  ${KIRI}${a} ${KANAN}"
 echo -e "${IWhite}"
